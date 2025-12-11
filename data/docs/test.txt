@@ -1,0 +1,1 @@
+This is a sample document for testing the Gemini RAG system. It contains information about AI, machine learning, and retrieval-augmented generation.

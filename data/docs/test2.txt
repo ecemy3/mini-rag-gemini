@@ -1,0 +1,4 @@
+Gemini is a large multimodal AI model developed by Google DeepMind. 
+It supports text, image understanding, embeddings, and can be used for RAG systems. 
+RAG systems combine retrieval and generation to answer questions based on documents.
+Vertex AI provides Gemini access through APIs and SDKs.
